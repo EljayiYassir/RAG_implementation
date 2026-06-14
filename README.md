@@ -1,4 +1,5 @@
 # RAG_implementation !
 
-setup the enviement:
+setup the enviement
+
 
